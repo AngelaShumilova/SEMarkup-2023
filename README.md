@@ -94,3 +94,4 @@ The dataset for this task is based on the news texts of the NewsRU site. It was 
 - Darya Dyachkova (RSUH)
 - Mariia Michurina (RSUH)
 - Angela Shumilova (RSUH)
+ 
